@@ -1,0 +1,18 @@
+﻿  block.cpp
+  input.cpp
+J:\MC2\Minecraft2\Minecraft2\input.h(2,24): warning C4099: 'GLFWwindow': type name first seen using 'struct' now seen using 'class'
+J:\MC2\Minecraft2\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(1157): message : see declaration of 'GLFWwindow'
+J:\MC2\Minecraft2\Minecraft2\input.h(2,24): warning C4091: 'extern ': ignored on left of 'GLFWwindow' when no variable is declared
+  main.cpp
+J:\MC2\Minecraft2\Minecraft2\input.h(2,24): warning C4099: 'GLFWwindow': type name first seen using 'struct' now seen using 'class'
+J:\MC2\Minecraft2\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(1157): message : see declaration of 'GLFWwindow'
+J:\MC2\Minecraft2\Minecraft2\input.h(2,24): warning C4091: 'extern ': ignored on left of 'GLFWwindow' when no variable is declared
+  minecraft.cpp
+  player.cpp
+  view.cpp
+J:\MC2\Minecraft2\Minecraft2\view.cpp(24,15): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Minecraft2.vcxproj -> J:\MC2\Minecraft2\Release\Minecraft2.exe
